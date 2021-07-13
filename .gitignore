@@ -1,0 +1,6 @@
+backend.tf
+ops_scripts/
+.terraform.lock.hcl
+backend.tf.sample
+terraform.tfvars
+.terraform/

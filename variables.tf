@@ -1,0 +1,9 @@
+variable "project_id" {}
+variable "cluster_name" {}
+variable "cluster_env" {}
+variable "region" {}
+variable "bastion_members" {}
+variable "subnet_ip" {}
+variable "ip_range_pods" {}
+variable "ip_range_svc" {}
+variable "ip_range_master" {}
