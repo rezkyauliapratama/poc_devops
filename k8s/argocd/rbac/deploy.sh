@@ -1,0 +1,1 @@
+kubectl replace -f rbac-argo-controller-patch.yaml
